@@ -9,15 +9,14 @@ The Ministry of the Environment (MOE) in Alberta has a need to design and implem
 This reporting system needs to capture each data set separately but utilize the same reporting infrastructure and processes for data capture, data cleansing, and reporting.
 The business case submitted by Margaret John, Manager of the Environmental Management Branch was approved with a budget of received approval from her by the Environmental Management Branch for this initiative was approved for 1.7M. The scope of the project is defined as:
 
-Utilizing existing IT and Reporting Infrastructure to build out the TRAIS/GHGIS reporting solution
-
- Implement new enterprise reporting tools
- Partner with the Ministry of Environment to collect the data from the various
-organizations mandated to report toxics and greenhouse gas emissions into the
+1. Utilizing existing IT and Reporting Infrastructure to build out the TRAIS/GHGIS reporting solution
+2. Implement new enterprise reporting tools
+3. Partner with the Ministry of Environment to collect the data from the various
+4. organizations mandated to report toxics and greenhouse gas emissions into the
 atmosphere
- Build a solution using web services to capture and transform data
- Build adhoc and canned reports
- Make reports available internal groups and external to the public
+5. Build a solution using web services to capture and transform data
+6. Build adhoc and canned reports
+7. Make reports available internal groups and external to the public
 
 This project would procure a vendor team to complete majority of the development work and to
 create the architecture documentation needed to get through a governance process and to maintain
